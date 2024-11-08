@@ -1,4 +1,4 @@
-👋 Hi, I’m @MogesBekele  
+👋 Hi, I’m Moges Bekele  
 - 👀 I’m interested in creating impactful and efficient web applications.  
 - 🌱 I’m currently a fullstack developer with experience in both frontend and backend technologies, especially with the MERN stack.  
 - 💞️ I’m looking to collaborate on open-source projects.  
