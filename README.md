@@ -41,9 +41,13 @@ I’m a **Fullstack Developer** specializing in the **MERN Stack**. I am passion
 🌟 About Me:
 
 🎓 Electromechanical Engineer ➡️ Fullstack Developer
+
 📍 Living and coding from Addis Ababa, Ethiopia 🌍
+
 💡 Passionate about problem-solving, designing efficient systems, and building digital solutions.
+
 🧠 Currently diving deep into TypeScript 🚀,GraphQL 🔗 and Next.js
+
 🌱 Fast learner with a knack for adapting to new environments and mastering cutting-edge technologies.
 
 
