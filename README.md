@@ -12,8 +12,6 @@ I’m a **Fullstack Developer** specializing in the **MERN Stack**. I am dedicat
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -95,8 +93,11 @@ I’m a **Fullstack Developer** specializing in the **MERN Stack**. I am dedicat
 ---
 
 ✨ Fun Facts:
+
 🎮 Gaming enthusiast in my free time
+
 ☕ Fuelled by coffee, creativity and watching podcast
+
 💬 Always open to collaboration and learning new things!
 
 Feel free to check out my repositories and don’t hesitate to reach out if you'd like to collaborate!
