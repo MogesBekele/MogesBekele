@@ -4,8 +4,8 @@
 
 <div style="text-align: center; padding: 20px;">
 
-  <p style="font-size: 20px; color: #555;">I’m a <strong style="color: #007bff;">Fullstack Developer</strong> specializing in the <strong style="color: #007bff;">MERN Stack</strong>.</p>
-<h2>🔧 Development Focus:</h2>
+  <h2 style="font-size: 20px; color: #555;">I’m a <strong style="color: #007bff;">Fullstack Developer</strong> specializing in the <strong style="color: #007bff;">MERN Stack</strong>.</h2>
+<h3>🔧 Development Focus:</h3>
 
  ✔️ Clean & Maintainable Code
  
@@ -15,17 +15,8 @@
 
 ✔️ Continuous Learning & Exploration
 
-<h2>🛠️ My Coding Workflow:</h2>
 
-🌐 Build the backend API with Node.js and Express.
-
-💻 Develop the frontend with React.js.
-
-📦 Integrate MongoDB for data storage and management.
-
-☁️ Deploy applications to cloud platforms (e.g., Heroku, AWS).
-
-  
+  </hr>
 </div>
 
 
