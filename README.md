@@ -124,7 +124,7 @@
 
 💡 Passionate about problem-solving, designing efficient systems, and building digital solutions.
 
-🧠 Currently diving deep into TypeScript 🚀,GraphQL 🔗 and Next.js
+🧠 Currently diving deep into Three.js🚀,GraphQL 🔗 and Next.js
 
 🌱 Fast learner with a knack for adapting to new environments and mastering cutting-edge technologies.
 
