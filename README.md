@@ -54,7 +54,8 @@ I’m a **Fullstack Developer** specializing in the **MERN Stack**. I am passion
 
 ## 🌐 Connect With Me
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/moges868)
-[[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](in/moges-bekele-3b7794189)](https://www.linkedin.com/in/moges-bekele-3b7794189)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moges-bekele-3b7794189)
+
 
 
 ---
