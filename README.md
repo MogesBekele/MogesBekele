@@ -37,15 +37,9 @@ I’m a **Fullstack Developer** specializing in the **MERN Stack**. I am passion
     <p>Click here to view the source code (https://github.com/MogesBekele/education)</p>
 </p> </td> <td align="center"> <img src="https://via.placeholder.com/300x200?text=Other+Websites" alt="Other Websites" style="border-radius: 10px;" /> <h3>Other Websites</h3> <p> A collection of simple and functional websites, showcasing creative layouts and clean code. </p> </td> </tr> </table> </div>
 
-## 
-- 🎓 **Electromechanical Engineer** turned **Fullstack Developer**.
-- 📍 Based in Addis Ababa Ethiopia.
-- 🧠 Currently learning advanced **TypeScript** and **GraphQL**.
-
----
-You're absolutely right! Let's include your technical skills and adaptability to new environments in the revised About Me section. Here's the improved version
 
 🌟 About Me:
+
 🎓 Electromechanical Engineer ➡️ Fullstack Developer
 📍 Living and coding from Addis Ababa, Ethiopia 🌍
 💡 Passionate about problem-solving, designing efficient systems, and building digital solutions.
