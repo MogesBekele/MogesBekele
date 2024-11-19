@@ -62,46 +62,47 @@ I’m a **Fullstack Developer** specializing in the **MERN Stack**. I am dedicat
     <tr>
       <td align="center">
         <img src="https://via.placeholder.com/300x200?text=Food+Delivery+App" alt="Food Delivery App" style="border-radius: 10px;" />
-        <h3 style="color: #007bff;">Food Delivery App</h3>
-        <p style="color: #007bff;">A fullstack MERN (MongoDB, Express.js, React.js, Node.js) application designed to streamline online food ordering and delivery services. This project integrates modern technologies and user-focused features to deliver a seamless experience for customers, restaurants, and delivery personnel.</p>
+        <h3 style="color: #4A4A4A;">Food Delivery App</h3>
+        <p style="color: #4A4A4A;">A fullstack MERN (MongoDB, Express.js, React.js, Node.js) application designed to streamline online food ordering and delivery services. This project integrates modern technologies and user-focused features to deliver a seamless experience for customers, restaurants, and delivery personnel.</p>
         <p>Click here to view the source code (https://github.com/MogesBekele/food-del)</p>
       </td>
       <td align="center">
         <img src="https://via.placeholder.com/300x200?text=Public+eCommerce+Platform" alt="Public eCommerce Platform" style="border-radius: 10px;" />
-        <h3 style="color: #007bff;">Public eCommerce Platform</h3>
-        <p style="color: #007bff;">A robust eCommerce platform built with the MERN stack (MongoDB, Express.js, React.js, Node.js) that provides a seamless shopping experience for users, from browsing products to secure checkout. This platform is designed for both buyers and sellers, offering user accounts, product management, and real-time updates.</p>
+        <h3 style="color: #4A4A4A;">Public eCommerce Platform</h3>
+        <p style="color: #4A4A4A;">A robust eCommerce platform built with the MERN stack (MongoDB, Express.js, React.js, Node.js) that provides a seamless shopping experience for users, from browsing products to secure checkout. This platform is designed for both buyers and sellers, offering user accounts, product management, and real-time updates.</p>
         <p>Click here to view the source code (https://github.com/MogesBekele/Ecomerce)</p>
       </td>
     </tr>
     <tr>
       <td align="center">
         <img src="https://via.placeholder.com/300x200?text=Authentication+App" alt="Authentication App" style="border-radius: 10px;" />
-        <h3 style="color: #007bff;">Authentication & Authorization</h3>
-        <p style="color: #007bff;">This feature handles user authentication and authorization in a secure and efficient manner using JWT (JSON Web Tokens). It ensures that only authorized users can access protected routes and perform sensitive actions such as creating orders, managing accounts, or updating product listings.</p>
+        <h3 style="color: #4A4A4A;">Authentication & Authorization</h3>
+        <p style="color: #4A4A4A;">This feature handles user authentication and authorization in a secure and efficient manner using JWT (JSON Web Tokens). It ensures that only authorized users can access protected routes and perform sensitive actions such as creating orders, managing accounts, or updating product listings.</p>
         <p>Click here to view the source code (https://github.com/MogesBekele/autenticate)</p>
       </td>
       <td align="center">
         <img src="https://via.placeholder.com/300x200?text=Wende's+Website" alt="Wende's Website" style="border-radius: 10px;" />
-        <h3 style="color: #007bff;">Wende's Website</h3>
-        <p style="color: #007bff;">A frontend application built with React.js designed to manage and display pension contributions and VAT reports for businesses. This platform allows users to interact with data, visualize reports, and access a responsive, user-friendly interface for easy management of pension and VAT information.</p>
+        <h3 style="color: #4A4A4A;">Wende's Website</h3>
+        <p style="color: #4A4A4A;">A frontend application built with React.js designed to manage and display pension contributions and VAT reports for businesses. This platform allows users to interact with data, visualize reports, and access a responsive, user-friendly interface for easy management of pension and VAT information.</p>
         <p>Click here to view the source code (https://github.com/MogesBekele/wende-s-website)</p>
       </td>
     </tr>
     <tr>
       <td align="center">
         <img src="https://via.placeholder.com/300x200?text=Educational+Website" alt="Educational Website" style="border-radius: 10px;" />
-        <h3 style="color: #007bff;">Education Website</h3>
-        <p style="color: #007bff;">A frontend application developed with React.js to provide a user-friendly and interactive experience for students and educators. This platform allows users to browse educational courses, view course details, and engage with interactive learning materials.</p>
+        <h3 style="color: #4A4A4A;">Education Website</h3>
+        <p style="color: #4A4A4A;">A frontend application developed with React.js to provide a user-friendly and interactive experience for students and educators. This platform allows users to browse educational courses, view course details, and engage with interactive learning materials.</p>
         <p>Click here to view the source code (https://github.com/MogesBekele/education)</p>
       </td>
       <td align="center">
         <img src="https://via.placeholder.com/300x200?text=Other+Websites" alt="Other Websites" style="border-radius: 10px;" />
-        <h3 style="color: #007bff;">Other Websites</h3>
-        <p style="color: #007bff;">A collection of simple and functional websites, showcasing creative layouts and clean code.</p>
+        <h3 style="color: #4A4A4A;">Other Websites</h3>
+        <p style="color: #4A4A4A;">A collection of simple and functional websites, showcasing creative layouts and clean code.</p>
       </td>
     </tr>
   </table>
 </div>
+
 
 
 🌟 About Me:
