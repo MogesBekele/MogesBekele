@@ -67,7 +67,7 @@ I’m a **Fullstack Developer** specializing in the **MERN Stack**. I am dedicat
         <p>Click here to view the source code (https://github.com/MogesBekele/food-del)</p>
       </td>
       <td align="center">
-        <img src="https://via.placeholder.com/300x200?text=Public+eCommerce+Platform" alt="Public eCommerce Platform" style="border-radius: 10px;" />
+        <img src="https://via.placeholder.com/300x200?text=Public+eCommerce+Platform" alt="Public eCommerce" style="border-radius: 10px;" />
         <h3 style="color: #4A4A4A;">Public eCommerce Platform</h3>
         <p style="color: #4A4A4A;">A robust eCommerce platform built with the MERN stack (MongoDB, Express.js, React.js, Node.js) that provides a seamless shopping experience for users, from browsing products to secure checkout. This platform is designed for both buyers and sellers, offering user accounts, product management, and real-time updates.</p>
         <p>Click here to view the source code (https://github.com/MogesBekele/Ecomerce)</p>
