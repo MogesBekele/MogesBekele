@@ -2,8 +2,12 @@
 
 ![Header](https://via.placeholder.com/1200x400?text=Welcome+to+My+GitHub+Profile)
 
-I’m a **Fullstack Developer** specializing in the **MERN Stack**. I am dedicated to crafting elegant, responsive, and scalable applications.
+<div style="text-align: center; padding: 20px;">
 
+  <p style="font-size: 20px; color: #555;">I’m a <strong style="color: #007bff;">Fullstack Developer</strong> specializing in the <strong style="color: #007bff;">MERN Stack</strong>.</p>
+  <p style="font-size: 18px; color: #555; max-width: 800px; margin: 0 auto;">I am dedicated to crafting elegant, responsive, and scalable applications that provide seamless user experiences. I focus on writing clean, maintainable code and continuously learning new technologies to stay ahead in the ever-evolving field of web development.</p>
+  <p style="margin-top: 20px; font-size: 18px; color: #007bff;">Feel free to explore my repositories and connect with me!</p>
+</div>
 ---
 
 ## 🛠️ Technologies & Tools
