@@ -1,10 +1,20 @@
 # 👋 Hi there, I'm Moges Bekele!
 
 
-
 <div style="text-align: center; padding: 20px;">
 
   <h2 style="font-size: 20px; color: #555;">I’m a <strong style="color: #007bff;">Fullstack Developer</strong> specializing in the <strong style="color: #007bff;">MERN Stack</strong>.</h2>
+
+🎓 Electromechanical Engineer ➡️ Fullstack Developer
+
+📍 Living and coding from Addis Ababa, Ethiopia 🌍
+
+💡 Passionate about problem-solving, designing efficient systems, and building digital solutions.
+
+🧠 Currently diving deep into Three.js🚀,GraphQL 🔗 and Next.js
+
+🌱 Fast learner with a knack for adapting to new environments and mastering cutting-edge technologies.
+
 <h3>🔧 Development Focus:</h3>
 
  ✔️ Clean & Maintainable Code
@@ -69,17 +79,6 @@
 
 
 
-🌟 About Me:
-
-🎓 Electromechanical Engineer ➡️ Fullstack Developer
-
-📍 Living and coding from Addis Ababa, Ethiopia 🌍
-
-💡 Passionate about problem-solving, designing efficient systems, and building digital solutions.
-
-🧠 Currently diving deep into Three.js🚀,GraphQL 🔗 and Next.js
-
-🌱 Fast learner with a knack for adapting to new environments and mastering cutting-edge technologies.
 
 
 
