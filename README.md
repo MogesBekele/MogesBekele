@@ -9,7 +9,7 @@
 
 📍 Living and coding from Addis Ababa, Ethiopia 🌍
 
-💡 Passionate about problem-solving, designing efficient systems, and building digital solutions.
+💡 Driven by a strong enthusiasm for problem-solving, designing efficient systems, and building digital solutions.
 
 🧠 Currently diving deep into Three.js🚀,GraphQL 🔗 and Next.js
 
