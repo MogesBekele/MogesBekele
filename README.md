@@ -10,14 +10,6 @@
   
 </div>
 
-![MogesBekele's GitHub stats](https://github-readme-stats.vercel.app/api?username=MogesBekele&show_icons=true&hide_title=true&count_private=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MogesBekele&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MogesBekele&theme=tokyonight)
-
-
-
 
 
 ## 🛠️ Technologies & Tools
