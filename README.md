@@ -37,12 +37,22 @@ I’m a **Fullstack Developer** specializing in the **MERN Stack**. I am passion
     <p>Click here to view the source code (https://github.com/MogesBekele/education)</p>
 </p> </td> <td align="center"> <img src="https://via.placeholder.com/300x200?text=Other+Websites" alt="Other Websites" style="border-radius: 10px;" /> <h3>Other Websites</h3> <p> A collection of simple and functional websites, showcasing creative layouts and clean code. </p> </td> </tr> </table> </div>
 
-## 🌱 About Me
+## 
 - 🎓 **Electromechanical Engineer** turned **Fullstack Developer**.
 - 📍 Based in Addis Ababa Ethiopia.
 - 🧠 Currently learning advanced **TypeScript** and **GraphQL**.
 
 ---
+You're absolutely right! Let's include your technical skills and adaptability to new environments in the revised About Me section. Here's the improved version
+
+🌟 About Me:
+🎓 Electromechanical Engineer ➡️ Fullstack Developer
+📍 Living and coding from Addis Ababa, Ethiopia 🌍
+💡 Passionate about problem-solving, designing efficient systems, and building digital solutions.
+🧠 Currently diving deep into TypeScript 🚀,GraphQL 🔗 and Next.js
+🌱 Fast learner with a knack for adapting to new environments and mastering cutting-edge technologies.
+
+
 
 ## 🌐 Connect With Me
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/moges868)
@@ -51,6 +61,9 @@ I’m a **Fullstack Developer** specializing in the **MERN Stack**. I am passion
 
 ---
 
-📌 **Fun Fact**: *Coding is my passion, and coffee is my fuel!*
+✨ Fun Facts:
+🎮 Gaming enthusiast in my free time
+☕ Fuelled by coffee, creativity and watching podcast
+💬 Always open to collaboration and learning new things!
 
 Feel free to check out my repositories and don’t hesitate to reach out if you'd like to collaborate!
