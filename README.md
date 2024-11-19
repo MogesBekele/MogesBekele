@@ -1,12 +1,30 @@
 # 👋 Hi there, I'm Moges Bekele!
 
-![Header](https://via.placeholder.com/1200x400?text=Welcome+to+My+GitHub+Profile)
+
 
 <div style="text-align: center; padding: 20px;">
 
   <p style="font-size: 20px; color: #555;">I’m a <strong style="color: #007bff;">Fullstack Developer</strong> specializing in the <strong style="color: #007bff;">MERN Stack</strong>.</p>
-  <p style="font-size: 18px; color: #555; max-width: 800px; margin: 0 auto;">I am dedicated to crafting elegant, responsive, and scalable applications that provide seamless user experiences. I focus on writing clean, maintainable code and continuously learning new technologies to stay ahead in the ever-evolving field of web development.</p>
-  <p style="margin-top: 20px; font-size: 18px; color: #007bff;">Feel free to explore my repositories and connect with me!</p>
+<h2>🔧 Development Focus:</h2>
+
+ ✔️ Clean & Maintainable Code
+ 
+✔️ Scalable and Modular Architecture
+
+✔️ Responsive & User-Friendly Designs
+
+✔️ Continuous Learning & Exploration
+
+<h2>🛠️ My Coding Workflow:</h2>
+
+🌐 Build the backend API with Node.js and Express.
+
+💻 Develop the frontend with React.js.
+
+📦 Integrate MongoDB for data storage and management.
+
+☁️ Deploy applications to cloud platforms (e.g., Heroku, AWS).
+
   
 </div>
 
