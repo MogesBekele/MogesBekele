@@ -54,50 +54,60 @@ I’m a **Fullstack Developer** specializing in the **MERN Stack**. I am dedicat
 
 
 
----
-
-🚀 Featured Projects
+---🚀 Featured Projects
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <img src="https://via.placeholder.com/300x200?text=Food+Delivery+App" alt="Food Delivery App" style="border-radius: 10px;" />
-        <h3 style="color: #4A4A4A;">Food Delivery App</h3>
-        <p style="color: #4A4A4A;">A fullstack MERN (MongoDB, Express.js, React.js, Node.js) application designed to streamline online food ordering and delivery services. This project integrates modern technologies and user-focused features to deliver a seamless experience for customers, restaurants, and delivery personnel.</p>
-        <p>Click here to view the source code (https://github.com/MogesBekele/food-del)</p>
+      <td align="center" style="padding: 10px;">
+        <div style="width: 300px; height: 200px; background-color: #007bff; border-radius: 10px; color: white; display: flex; align-items: center; justify-content: center;">
+          <span>Food Delivery App</span>
+        </div>
+        <h3 style="color: #007bff;">Food Delivery App</h3>
+        <p style="color: #007bff;">A fullstack MERN (MongoDB, Express.js, React.js, Node.js) application designed to streamline online food ordering and delivery services. This project integrates modern technologies and user-focused features to deliver a seamless experience for customers, restaurants, and delivery personnel.</p>
+        <p>Click here to view the source code <a href="https://github.com/MogesBekele/food-del" style="color: #007bff;">([Food Delivery App Source Code](https://github.com/MogesBekele/food-del))</a></p>
       </td>
-      <td align="center">
-        <img src="https://via.placeholder.com/300x200?text=Public+eCommerce+Platform" alt="Public eCommerce Platform" style="border-radius: 10px;" />
-        <h3 style="color: #4A4A4A;">Public eCommerce Platform</h3>
-        <p style="color: #4A4A4A;">A robust eCommerce platform built with the MERN stack (MongoDB, Express.js, React.js, Node.js) that provides a seamless shopping experience for users, from browsing products to secure checkout. This platform is designed for both buyers and sellers, offering user accounts, product management, and real-time updates.</p>
-        <p>Click here to view the source code (https://github.com/MogesBekele/Ecomerce)</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://via.placeholder.com/300x200?text=Authentication+App" alt="Authentication App" style="border-radius: 10px;" />
-        <h3 style="color: #4A4A4A;">Authentication & Authorization</h3>
-        <p style="color: #4A4A4A;">This feature handles user authentication and authorization in a secure and efficient manner using JWT (JSON Web Tokens). It ensures that only authorized users can access protected routes and perform sensitive actions such as creating orders, managing accounts, or updating product listings.</p>
-        <p>Click here to view the source code (https://github.com/MogesBekele/autenticate)</p>
-      </td>
-      <td align="center">
-        <img src="https://via.placeholder.com/300x200?text=Wende's+Website" alt="Wende's Website" style="border-radius: 10px;" />
-        <h3 style="color: #4A4A4A;">Wende's Website</h3>
-        <p style="color: #4A4A4A;">A frontend application built with React.js designed to manage and display pension contributions and VAT reports for businesses. This platform allows users to interact with data, visualize reports, and access a responsive, user-friendly interface for easy management of pension and VAT information.</p>
-        <p>Click here to view the source code (https://github.com/MogesBekele/wende-s-website)</p>
+      <td align="center" style="padding: 10px;">
+        <div style="width: 300px; height: 200px; background-color: #28a745; border-radius: 10px; color: white; display: flex; align-items: center; justify-content: center;">
+          <span>Public eCommerce Platform</span>
+        </div>
+        <h3 style="color: #007bff;">Public eCommerce Platform</h3>
+        <p style="color: #007bff;">A robust eCommerce platform built with the MERN stack (MongoDB, Express.js, React.js, Node.js) that provides a seamless shopping experience for users, from browsing products to secure checkout. This platform is designed for both buyers and sellers, offering user accounts, product management, and real-time updates.</p>
+        <p>Click here to view the source code <a href="https://github.com/MogesBekele/Ecomerce" style="color: #007bff;">(eCommerce Source Code)</a></p>
       </td>
     </tr>
     <tr>
-      <td align="center">
-        <img src="https://via.placeholder.com/300x200?text=Educational+Website" alt="Educational Website" style="border-radius: 10px;" />
-        <h3 style="color: #4A4A4A;">Education Website</h3>
-        <p style="color: #4A4A4A;">A frontend application developed with React.js to provide a user-friendly and interactive experience for students and educators. This platform allows users to browse educational courses, view course details, and engage with interactive learning materials.</p>
-        <p>Click here to view the source code (https://github.com/MogesBekele/education)</p>
+      <td align="center" style="padding: 10px;">
+        <div style="width: 300px; height: 200px; background-color: #ff5722; border-radius: 10px; color: white; display: flex; align-items: center; justify-content: center;">
+          <span>Authentication & Authorization</span>
+        </div>
+        <h3 style="color: #007bff;">Authentication & Authorization</h3>
+        <p style="color: #007bff;">This feature handles user authentication and authorization in a secure and efficient manner using JWT (JSON Web Tokens). It ensures that only authorized users can access protected routes and perform sensitive actions such as creating orders, managing accounts, or updating product listings.</p>
+        <p>Click here to view the source code <a href="https://github.com/MogesBekele/autenticate" style="color: #007bff;">(Authentication Source Code)</a></p>
       </td>
-      <td align="center">
-        <img src="https://via.placeholder.com/300x200?text=Other+Websites" alt="Other Websites" style="border-radius: 10px;" />
-        <h3 style="color: #4A4A4A;">Other Websites</h3>
-        <p style="color: #4A4A4A;">A collection of simple and functional websites, showcasing creative layouts and clean code.</p>
+      <td align="center" style="padding: 10px;">
+        <div style="width: 300px; height: 200px; background-color: #17a2b8; border-radius: 10px; color: white; display: flex; align-items: center; justify-content: center;">
+          <span>Wende's Website</span>
+        </div>
+        <h3 style="color: #007bff;">Wende's Website</h3>
+        <p style="color: #007bff;">A frontend application built with React.js designed to manage and display pension contributions and VAT reports for businesses. This platform allows users to interact with data, visualize reports, and access a responsive, user-friendly interface for easy management of pension and VAT information.</p>
+        <p>Click here to view the source code <a href="https://github.com/MogesBekele/wende-s-website" style="color: #007bff;">(Wende's Website Source Code)</a></p>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <div style="width: 300px; height: 200px; background-color: #ffc107; border-radius: 10px; color: white; display: flex; align-items: center; justify-content: center;">
+          <span>Education Website</span>
+        </div>
+        <h3 style="color: #007bff;">Education Website</h3>
+        <p style="color: #007bff;">A frontend application developed with React.js to provide a user-friendly and interactive experience for students and educators. This platform allows users to browse educational courses, view course details, and engage with interactive learning materials.</p>
+        <p>Click here to view the source code <a href="https://github.com/MogesBekele/education" style="color: #007bff;">(Education Source Code)</a></p>
+      </td>
+      <td align="center" style="padding: 10px;">
+        <div style="width: 300px; height: 200px; background-color: #6f42c1; border-radius: 10px; color: white; display: flex; align-items: center; justify-content: center;">
+          <span>Other Websites</span>
+        </div>
+        <h3 style="color: #007bff;">Other Websites</h3>
+        <p style="color: #007bff;">A collection of simple and functional websites, showcasing creative layouts and clean code.</p>
       </td>
     </tr>
   </table>
