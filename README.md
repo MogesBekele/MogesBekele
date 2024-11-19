@@ -136,14 +136,4 @@
 
 
 
----
-
-✨ Fun Facts:
-
-🎮 Gaming enthusiast in my free time
-
-☕ Fuelled by coffee, creativity and watching podcast
-
-💬 Always open to collaboration and learning new things!
-
 Feel free to check out my repositories and don’t hesitate to reach out if you'd like to collaborate!
