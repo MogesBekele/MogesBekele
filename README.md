@@ -67,58 +67,6 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-🚀 Featured Projects
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" style="padding: 20px;">
-        <div style="width: 300px; height: 200px; background-color: #007bff; border-radius: 10px; color: white; display: flex; align-items: center; justify-content: center;">
-          <h2 style="font-size: 24px; font-weight: bold; margin: 0;">Food Delivery App</h2>
-        </div>
-        <p style="color: #007bff;">A fullstack MERN (MongoDB, Express.js, React.js, Node.js) application designed to streamline online food ordering and delivery services.</p>
-        <p>Source Code: <a href="https://github.com/MogesBekele/food-del" style="color: #007bff;">food-del</a></p>
-      </td>
-      <td align="center" style="padding: 20px;">
-        <div style="width: 300px; height: 200px; background-color: #28a745; border-radius: 10px; color: white; display: flex; align-items: center; justify-content: center;">
-          <h2 style="font-size: 24px; font-weight: bold; margin: 0;">Public eCommerce Platform</h2>
-        </div>
-        <p style="color: #007bff;">A robust eCommerce platform built with the MERN stack, offering seamless shopping experiences for buyers and sellers.</p>
-        <p>Source Code: <a href="https://github.com/MogesBekele/Ecomerce" style="color: #007bff;">ecommerce</a></p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 20px;">
-        <div style="width: 300px; height: 200px; background-color: #ff5722; border-radius: 10px; color: white; display: flex; align-items: center; justify-content: center;">
-          <h2 style="font-size: 24px; font-weight: bold; margin: 0;">Authentication & Authorization</h2>
-        </div>
-        <p style="color: #007bff;">Handles secure user authentication and authorization using JWT for protected routes and sensitive actions.</p>
-        <p>Source Code: <a href="https://github.com/MogesBekele/autenticate" style="color: #007bff;">autenticate</a></p>
-      </td>
-      <td align="center" style="padding: 20px;">
-        <div style="width: 300px; height: 200px; background-color: #17a2b8; border-radius: 10px; color: white; display: flex; align-items: center; justify-content: center;">
-          <h2 style="font-size: 24px; font-weight: bold; margin: 0;">Wende's Pension and VAT Reports</h2>
-        </div>
-        <p style="color: #007bff;">React.js-based platform for managing pension contributions and VAT reports with an interactive user interface.</p>
-        <p>Source Code: <a href="https://github.com/MogesBekele/wende-s-website" style="color: #007bff;">wende-s-website</a></p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 20px;">
-        <div style="width: 300px; height: 200px; background-color: #ffc107; border-radius: 10px; color: white; display: flex; align-items: center; justify-content: center;">
-          <h2 style="font-size: 24px; font-weight: bold; margin: 0;">Education Website</h2>
-        </div>
-        <p style="color: #007bff;">React.js application for browsing courses and engaging with interactive learning materials.</p>
-        <p>Source Code: <a href="https://github.com/MogesBekele/education" style="color: #007bff;">education</a></p>
-      </td>
-      <td align="center" style="padding: 20px;">
-        <div style="width: 300px; height: 200px; background-color: #6f42c1; border-radius: 10px; color: white; display: flex; align-items: center; justify-content: center;">
-          <h2 style="font-size: 24px; font-weight: bold; margin: 0;">Other Websites</h2>
-        </div>
-        <p style="color: #007bff;">A collection of simple and functional websites showcasing creative layouts and clean code.</p>
-      </td>
-    </tr>
-  </table>
-</div>
 
 
 🌟 About Me:
