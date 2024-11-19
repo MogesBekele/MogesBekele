@@ -7,8 +7,18 @@
   <p style="font-size: 20px; color: #555;">I’m a <strong style="color: #007bff;">Fullstack Developer</strong> specializing in the <strong style="color: #007bff;">MERN Stack</strong>.</p>
   <p style="font-size: 18px; color: #555; max-width: 800px; margin: 0 auto;">I am dedicated to crafting elegant, responsive, and scalable applications that provide seamless user experiences. I focus on writing clean, maintainable code and continuously learning new technologies to stay ahead in the ever-evolving field of web development.</p>
   <p style="margin-top: 20px; font-size: 18px; color: #007bff;">Feel free to explore my repositories and connect with me!</p>
+  
 </div>
----
+
+![MogesBekele's GitHub stats](https://github-readme-stats.vercel.app/api?username=MogesBekele&show_icons=true&hide_title=true&count_private=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MogesBekele&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MogesBekele&theme=tokyonight)
+
+
+
+
 
 ## 🛠️ Technologies & Tools
 ### Frontend
