@@ -2,7 +2,7 @@
 
 ![Header](https://via.placeholder.com/1200x400?text=Welcome+to+My+GitHub+Profile)
 
-I’m a **Fullstack Developer** specializing in the **MERN Stack**. I am passionate about crafting elegant, responsive, and scalable applications.
+I’m a **Fullstack Developer** specializing in the **MERN Stack**. I am dedicated to crafting elegant, responsive, and scalable applications.
 
 ---
 
