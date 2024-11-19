@@ -73,54 +73,48 @@
     <tr>
       <td align="center" style="padding: 20px;">
         <div style="width: 300px; height: 200px; background-color: #007bff; border-radius: 10px; color: white; display: flex; align-items: center; justify-content: center;">
-          <!-- Removed the span tag here -->
+          Food Delivery App
         </div>
-        <h2 style="color: #007bff; font-size: 32px; font-weight: bold;">Food Delivery App</h2>
-        <p style="color: #007bff;">A fullstack MERN (MongoDB, Express.js, React.js, Node.js) application designed to streamline online food ordering and delivery services. This project integrates modern technologies and user-focused features to deliver a seamless experience for customers, restaurants, and delivery personnel.</p>
-        <p>Click here to view the source code <a href="https://github.com/MogesBekele/food-del" style="color: #007bff;">food-del</a></p>
+        <p style="color: #007bff;">A fullstack MERN (MongoDB, Express.js, React.js, Node.js) application designed to streamline online food ordering and delivery services.</p>
+        <p>Source Code: <a href="https://github.com/MogesBekele/food-del" style="color: #007bff;">food-del</a></p>
       </td>
       <td align="center" style="padding: 20px;">
         <div style="width: 300px; height: 200px; background-color: #28a745; border-radius: 10px; color: white; display: flex; align-items: center; justify-content: center;">
-          <!-- Removed the span tag here -->
+          Public eCommerce Platform
         </div>
-        <h2 style="color: #007bff; font-size: 32px; font-weight: bold;">Public eCommerce Platform</h2>
-        <p style="color: #007bff;">A robust eCommerce platform built with the MERN stack (MongoDB, Express.js, React.js, Node.js) that provides a seamless shopping experience for users, from browsing products to secure checkout. This platform is designed for both buyers and sellers, offering user accounts, product management, and real-time updates.</p>
-        <p>Click here to view the source code <a href="https://github.com/MogesBekele/Ecomerce" style="color: #007bff;">ecommerce</a></p>
+        <p style="color: #007bff;">A robust eCommerce platform built with the MERN stack, offering seamless shopping experiences for buyers and sellers.</p>
+        <p>Source Code: <a href="https://github.com/MogesBekele/Ecomerce" style="color: #007bff;">ecommerce</a></p>
       </td>
     </tr>
     <tr>
       <td align="center" style="padding: 20px;">
         <div style="width: 300px; height: 200px; background-color: #ff5722; border-radius: 10px; color: white; display: flex; align-items: center; justify-content: center;">
-          <!-- Removed the span tag here -->
+          Authentication & Authorization
         </div>
-        <h2 style="color: #007bff; font-size: 32px; font-weight: bold;">Authentication & Authorization</h2>
-        <p style="color: #007bff;">This feature handles user authentication and authorization in a secure and efficient manner using JWT (JSON Web Tokens). It ensures that only authorized users can access protected routes and perform sensitive actions such as creating orders, managing accounts, or updating product listings.</p>
-        <p>Click here to view the source code <a href="https://github.com/MogesBekele/autenticate" style="color: #007bff;">autenticate</a></p>
+        <p style="color: #007bff;">Handles secure user authentication and authorization using JWT for protected routes and sensitive actions.</p>
+        <p>Source Code: <a href="https://github.com/MogesBekele/autenticate" style="color: #007bff;">autenticate</a></p>
       </td>
       <td align="center" style="padding: 20px;">
         <div style="width: 300px; height: 200px; background-color: #17a2b8; border-radius: 10px; color: white; display: flex; align-items: center; justify-content: center;">
-          <!-- Removed the span tag here -->
+          Wende's Pension and VAT Reports
         </div>
-        <h2 style="color: #007bff; font-size: 32px; font-weight: bold;">Wende's pension and VAT report company</h2>
-        <p style="color: #007bff;">A frontend application built with React.js designed to manage and display pension contributions and VAT reports for businesses. This platform allows users to interact with data, visualize reports, and access a responsive, user-friendly interface for easy management of pension and VAT information.</p>
-        <p>Click here to view the source code <a href="https://github.com/MogesBekele/wende-s-website" style="color: #007bff;">wende-s-website</a></p>
+        <p style="color: #007bff;">React.js-based platform for managing pension contributions and VAT reports with an interactive user interface.</p>
+        <p>Source Code: <a href="https://github.com/MogesBekele/wende-s-website" style="color: #007bff;">wende-s-website</a></p>
       </td>
     </tr>
     <tr>
       <td align="center" style="padding: 20px;">
         <div style="width: 300px; height: 200px; background-color: #ffc107; border-radius: 10px; color: white; display: flex; align-items: center; justify-content: center;">
-          <!-- Removed the span tag here -->
+          Education Website
         </div>
-        <h2 style="color: #007bff; font-size: 32px; font-weight: bold;">Education Website</h2>
-        <p style="color: #007bff;">A frontend application developed with React.js to provide a user-friendly and interactive experience for students and educators. This platform allows users to browse educational courses, view course details, and engage with interactive learning materials.</p>
-        <p>Click here to view the source code <a href="https://github.com/MogesBekele/education" style="color: #007bff;">education</a></p>
+        <p style="color: #007bff;">React.js application for browsing courses and engaging with interactive learning materials.</p>
+        <p>Source Code: <a href="https://github.com/MogesBekele/education" style="color: #007bff;">education</a></p>
       </td>
       <td align="center" style="padding: 20px;">
         <div style="width: 300px; height: 200px; background-color: #6f42c1; border-radius: 10px; color: white; display: flex; align-items: center; justify-content: center;">
-          <!-- Removed the span tag here -->
+          Other Websites
         </div>
-        <h2 style="color: #007bff; font-size: 32px; font-weight: bold;">Other Websites</h2>
-        <p style="color: #007bff;">A collection of simple and functional websites, showcasing creative layouts and clean code.</p>
+        <p style="color: #007bff;">A collection of simple and functional websites showcasing creative layouts and clean code.</p>
       </td>
     </tr>
   </table>
