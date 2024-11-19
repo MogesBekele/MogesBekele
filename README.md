@@ -15,7 +15,7 @@
 
 🌱 Fast learner with a knack for adapting to new environments and mastering cutting-edge technologies.
 
-<h3>🔧 Development Focus:</h3>
+<h2>🔧 Development Focus:</h2>
 
  ✔️ Clean & Maintainable Code
  
