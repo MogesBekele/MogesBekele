@@ -3,7 +3,7 @@
 
 <div style="text-align: center; padding: 20px;">
 
-  <h2 style="font-size: 20px; color: #555;">I’m a <strong style="color: #007bff;">Fullstack Developer</strong> specializing in the <strong style="color: #007bff;">MERN Stack and NEXTJS</strong>.</h2>
+  <h2 style="font-size: 20px; color: #555;">I’m a <strong style="color: #007bff;">Fullstack Developer</strong> specializing in the <strong style="color: #007bff;">MERN Stack and Nextjs</strong>.</h2>
 
 🎓 Electromechanical Engineer ➡️ Fullstack Developer
 
