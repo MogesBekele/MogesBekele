@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Moges Bekele!
+
 
 
 <div style="text-align: center; padding: 20px;">
@@ -24,6 +24,7 @@
 ✔️ Responsive & User-Friendly Designs
 
 ✔️ Continuous Learning & Exploration
+
 ✔️ Let's connect: https://personalll.onrender.com
 
 
