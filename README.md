@@ -7,11 +7,9 @@
 
 🎓 Electromechanical Engineer ➡️ Fullstack Developer
 
-📍 Living and coding from Addis Ababa, Ethiopia 🌍
-
 💡 Driven by a strong enthusiasm for problem-solving, designing efficient systems, and building digital solutions.
 
-🧠 Currently diving deep into Three.js🚀 and ML 
+🧠 Currently diving deep into machine learning 
 
 🌱 Fast learner with a knack for adapting to new environments and mastering cutting-edge technologies.
 
